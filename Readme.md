@@ -17,7 +17,7 @@ Before running the project, make sure you have Node.js and npm installed on your
 2. Navigate to the project directory:
 
    ```bash
-   cd typescript-express-server
+   cd Node-Typescript
    ```
 
 3. Install dependencies:
